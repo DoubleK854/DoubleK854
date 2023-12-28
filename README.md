@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💬 Check me out [here](https://DoubleK854.github.io/portfolio/) 👋 :wink:
+
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleK854&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
