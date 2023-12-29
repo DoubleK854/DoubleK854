@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💬 Welcome to my Digital home😉-->[here](https://doublek854.github.io/portfolio/)
+- 💬 Welcome to my Digital home😉→[here](https://doublek854.github.io/portfolio/)
 
 
 
