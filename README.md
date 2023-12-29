@@ -1,3 +1,4 @@
+<img src="https://github.com/victoria-lo/victoria-lo/blob/master/myGif.gif" alt="Here is a little bit about me!">
 ### Hi there 👋
 
 <!--
