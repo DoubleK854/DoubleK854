@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/DoubleK854/blob/main/Heythere.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/DoubleK854/DoubleK854/blob/main/Heythere.gif" alt="Here is a little bit about me!">
 
 
 
