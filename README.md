@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://github.com/DoubleK854/DoubleK854/blob/master/Heythere.gif" alt="Here is a little bit about me!">
+
+
+
 <!--
 **DoubleK854/DoubleK854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
